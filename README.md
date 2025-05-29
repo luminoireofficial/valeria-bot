@@ -29,8 +29,7 @@ Valeria Bot is a hobbyist and non-commercial project. There are no ads, subscrip
 
 ## 📸 Screenshots
 
-![bot example](https://your-image-link.com/sample1.png)
-![chat stat view](https://your-image-link.com/sample2.png)
+![bot example](https://files.catbox.moe/svvrzg.jpg)
 
 ## 🔗 Demo (coming soon)
 
